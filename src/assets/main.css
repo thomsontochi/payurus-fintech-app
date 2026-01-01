@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        min-height: 100vh;
+        background-color: theme('colors.background');
+        color: theme('colors.white');
+        font-family: theme('fontFamily.display');
+    }
+
+    #app {
+        min-height: 100vh;
+    }
+}
+
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
