@@ -35,5 +35,5 @@ npm run dev
 
 ## Trademark Notice
 
-Payurus™ is a product by **Austin Opia**. All Payurus branding, visual assets, and copywriting are © 2026 Austin Opia. Unauthorized use or reproduction is prohibited.
-# payurus-fintech-app
+Payurus™ is a product by **Austin Opia **. All Payurus branding, visual assets, and copywriting are © 2026 Austin Opia. Unauthorized use or reproduction is prohibited.
+# payurus-fintech-app by developia
